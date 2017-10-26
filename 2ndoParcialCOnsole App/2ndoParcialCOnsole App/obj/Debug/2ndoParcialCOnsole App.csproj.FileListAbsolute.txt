@@ -1,0 +1,7 @@
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndoParcialCOnsole App\2ndoParcialCOnsole App\bin\Debug\2ndoParcialCOnsole App.exe.config
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndoParcialCOnsole App\2ndoParcialCOnsole App\bin\Debug\2ndoParcialCOnsole App.exe
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndoParcialCOnsole App\2ndoParcialCOnsole App\bin\Debug\2ndoParcialCOnsole App.pdb
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndoParcialCOnsole App\2ndoParcialCOnsole App\obj\Debug\2ndoParcialCOnsole App.csprojResolveAssemblyReference.cache
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndoParcialCOnsole App\2ndoParcialCOnsole App\obj\Debug\2ndoParcialCOnsole App.csproj.CoreCompileInputs.cache
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndoParcialCOnsole App\2ndoParcialCOnsole App\obj\Debug\2ndoParcialCOnsole App.exe
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndoParcialCOnsole App\2ndoParcialCOnsole App\obj\Debug\2ndoParcialCOnsole App.pdb

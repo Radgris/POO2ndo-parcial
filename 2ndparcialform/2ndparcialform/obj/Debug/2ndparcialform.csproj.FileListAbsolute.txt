@@ -1,0 +1,10 @@
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\bin\Debug\2ndparcialform.exe.config
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\bin\Debug\2ndparcialform.exe
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\bin\Debug\2ndparcialform.pdb
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\obj\Debug\2ndparcialform.csprojResolveAssemblyReference.cache
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\obj\Debug\_2ndparcialform.Form1.resources
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\obj\Debug\_2ndparcialform.Properties.Resources.resources
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\obj\Debug\2ndparcialform.csproj.GenerateResource.Cache
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\obj\Debug\2ndparcialform.csproj.CoreCompileInputs.cache
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\obj\Debug\2ndparcialform.exe
+C:\Users\Skorm\Desktop\2ndo parcial POO\2ndparcialform\2ndparcialform\obj\Debug\2ndparcialform.pdb
